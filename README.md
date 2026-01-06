@@ -1,15 +1,45 @@
-Marketing Survey Analyzer
+Chatbot for College or Portfolio Website
 
-A Java console application that collects and analyzes user preferences for marketing platforms like Instagram, YouTube, TikTok, and more.
+An AI-powered chatbot designed to answer FAQs and interact with users on a college or personal portfolio website.
+This project focuses on Natural Language Processing (NLP) and intent recognition to improve user engagement and automate information delivery.
 
- Features
-- Collect user votes for preferred marketing platforms
-- Display aggregated results
-- Easy to extend with more platforms and features
+⸻
 
- Tech Stack
-- Java
-- Console-based application
+🎯 Goal
+
+To build a smart, lightweight chatbot that can:
+	•	Understand user questions
+	•	Identify user intent
+	•	Provide relevant automated responses
+	•	Be easily integrated into a website
+
+⸻
+
+🚀 Features
+	•	NLP-based intent recognition
+	•	FAQ and conversational support
+	•	Custom intents and responses
+	•	Flask-based backend API
+	•	Easy integration with web frontends
+	•	Extendable for databases, dashboards, or live chat
+
+⸻
+
+🧠 Core Concepts
+	•	Natural Language Processing (NLP)
+	•	Intent recognition
+	•	Text classification
+	•	API development
+	•	AI integration with web systems
+
+⸻
+
+🛠️ Tools & Technologies
+	•	Python
+	•	Hugging Face (Transformers)
+	•	Rasa
+	•	Flask
+	•	HTML, CSS, JavaScript (optional frontend)
 
 Status
  Project in progress. Stay tuned for updates!
